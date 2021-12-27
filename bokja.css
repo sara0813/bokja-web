@@ -89,18 +89,6 @@ input:checked + label {
     cursor: pointer;
 }
 
-.mokrok{
-    background-color: #fff7ec;
-    border: 2px solid #ffce8a;
-    padding: 2px, 5px;
-}
-
-.mokrok:hover{
-    background-color: #ffd8a1;
-    color: rgb(0, 0, 0);
-    cursor: pointer;
-}
-
 #b1 {
     font-size: 18px;
     width: 100%;
@@ -216,8 +204,9 @@ cursor: pointer;
 }
 
 .gm {
-    margin-left: 6%;
-    margin-top: -35%;
+    margin-left: 10%;
+    margin-top: -45%;
+    padding-top: -30%;
 }
 
 .ga {
